@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "name": "Outfitters",
+    "image": "./assets/Outfitters.png",
+    "github": "https://github.com/hmailahn/outfitters,",
+    "deploy": "https://outfitters-agent-shields.herokuapp.com/",
+    "topics": "Node.js, Express.js, Sequelize, ORM, MySQL, BCrypt, Handlebars.js, Ionicons, Heroku"
+    }
