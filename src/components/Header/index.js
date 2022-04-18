@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Route, Link, BrowserRouter as Router, Routes} from "react-router-dom";
+import {Route, Redirect, BrowserRouter as Router, Routes, Navigate} from "react-router-dom";
 import Navigation from '../../components/Navigation';
 import About from '../../components/About';
 import Contact from '../../components/Contact';
@@ -15,7 +15,7 @@ class Header extends Component {
             </div>
     <div className="content">
         <Routes>
-          <Route exact path="/" render={() => (<Link to="/portfolio"/>)}/>
+          <Route exact path="/" element={<Navigate to="/portfolio"/>}/>
           <Route path="portfolio" element={<Portfolio/>}></Route>
           <Route path="/about" element={<About/>}></Route>
           <Route path="/contact" element={<Contact />}></Route>
