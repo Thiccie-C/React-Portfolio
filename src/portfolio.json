@@ -24,23 +24,23 @@
 },{
     "id": 4,
     "name": "Budget Tracker",
-    "image": "https://github.com/hmailahn/outfitters/raw/main/assets/images/Outfitters.PNG",
+    "image": "https://github.com/Thiccie-C/React-Portfolio/blob/main/src/assets/Screenshot%202022-04-17%2020.48.59.png?raw=true",
     "github": "https://github.com/hmailahn/outfitters",
     "deploy": "https://quiet-thicket-73837.herokuapp.com/",
-    "topics": "Node.js, Express.js, Sequelize, ORM, MySQL, BCrypt, Handlebars.js, Ionicons, Heroku"
+    "topics": "Express, JS, MongooseDB, Compression"
 },{
     "id": 5,
-    "name": "Outfitters",
-    "image": "https://github.com/hmailahn/outfitters/raw/main/assets/images/Outfitters.PNG",
-    "github": "https://github.com/hmailahn/outfitters",
-    "deploy": "https://outfitters-agent-shields.herokuapp.com/",
-    "topics": "Node.js, Express.js, Sequelize, ORM, MySQL, BCrypt, Handlebars.js, Ionicons, Heroku"
+    "name": "WorK Day Scheduer",
+    "image": "https://user-images.githubusercontent.com/91172421/147426248-5e8b07c5-d4d7-404e-b98b-4089f1496e06.png",
+    "github": "https://github.com/Thiccie-C/super-disco",
+    "deploy": "https://thiccie-c.github.io/super-disco/",
+    "topics": "JS, HTML, CSS"
 },{
     "id": 6,
-    "name": "Outfitters",
-    "image": "https://github.com/hmailahn/outfitters/raw/main/assets/images/Outfitters.PNG",
-    "github": "https://github.com/hmailahn/outfitters",
-    "deploy": "https://outfitters-agent-shields.herokuapp.com/",
-    "topics": "Node.js, Express.js, Sequelize, ORM, MySQL, BCrypt, Handlebars.js, Ionicons, Heroku"
+    "name": "Password Generator",
+    "image": "https://user-images.githubusercontent.com/91172421/145758978-c9689669-23e5-4b42-b08e-306be3da2011.png",
+    "github": "https://github.com/Thiccie-C/friendly-parakeet",
+    "deploy": "https://thiccie-c.github.io/friendly-parakeet/",
+    "topics": "JS, CSS, HTML"
 }
 ]
