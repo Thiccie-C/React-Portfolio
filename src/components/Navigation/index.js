@@ -1,12 +1,14 @@
 import React from "react";
-import {NavLink} from "react-router-dom";
+import {Link} from "react-router-dom";
 
 function Navigation(props) {
+    return (
     <div className=" row navigation" id="navigation">
-        <NavLink to="/about">About</NavLink>
-        <NavLink to="/portfolio">portfolio </NavLink>
-        <NavLink to="/contact">contact </NavLink>
-        <NavLink to="/resume">resume</NavLink>
+        <Link to="/about">About</Link>
+        <Link to="/portfolio">portfolio</Link>
+        <Link to="/contact">contact</Link>
+        <Link to="/resume">resume</Link>
     </div>
+    )
 }
 export default Navigation

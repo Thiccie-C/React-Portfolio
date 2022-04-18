@@ -1,9 +1,10 @@
 import React from "react";
 
 function Resume() {
-    return
+    return(
         <div>
             No Resume Currently
         </div>
+    )
 }
 export default Resume

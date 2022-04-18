@@ -1,8 +1,46 @@
-{
+[{
     "id": 1,
     "name": "Outfitters",
-    "image": "./assets/Outfitters.png",
-    "github": "https://github.com/hmailahn/outfitters,",
+    "image": "https://github.com/hmailahn/outfitters/raw/main/assets/images/Outfitters.PNG",
+    "github": "https://github.com/hmailahn/outfitters",
     "deploy": "https://outfitters-agent-shields.herokuapp.com/",
     "topics": "Node.js, Express.js, Sequelize, ORM, MySQL, BCrypt, Handlebars.js, Ionicons, Heroku"
-    }
+},
+{
+    "id": 2,
+    "name": "Weather-DashBoard",
+    "image": "https://github.com/Thiccie-C/weather-dashboard/raw/main/assets/Capture.PNG",
+    "github": "https://github.com/Thiccie-C/weather-dashboard",
+    "deploy": "https://thiccie-c.github.io/weather-dashboard//",
+    "topics": "Jquery, CSS, HTML, JS"
+},
+{
+    "id": 3,
+    "name": "Note Taker",
+    "image": "https://github.com/Thiccie-C/Note-Taker/raw/main/images/Capture.PNG",
+    "github": "https://github.com/Thiccie-C/Note-Taker",
+    "deploy": "https://cams-note-taker.herokuapp.com/",
+    "topics": "JS, CSS, HTML, express, heroku"
+},{
+    "id": 4,
+    "name": "Budget Tracker",
+    "image": "https://github.com/hmailahn/outfitters/raw/main/assets/images/Outfitters.PNG",
+    "github": "https://github.com/hmailahn/outfitters",
+    "deploy": "https://quiet-thicket-73837.herokuapp.com/",
+    "topics": "Node.js, Express.js, Sequelize, ORM, MySQL, BCrypt, Handlebars.js, Ionicons, Heroku"
+},{
+    "id": 5,
+    "name": "Outfitters",
+    "image": "https://github.com/hmailahn/outfitters/raw/main/assets/images/Outfitters.PNG",
+    "github": "https://github.com/hmailahn/outfitters",
+    "deploy": "https://outfitters-agent-shields.herokuapp.com/",
+    "topics": "Node.js, Express.js, Sequelize, ORM, MySQL, BCrypt, Handlebars.js, Ionicons, Heroku"
+},{
+    "id": 6,
+    "name": "Outfitters",
+    "image": "https://github.com/hmailahn/outfitters/raw/main/assets/images/Outfitters.PNG",
+    "github": "https://github.com/hmailahn/outfitters",
+    "deploy": "https://outfitters-agent-shields.herokuapp.com/",
+    "topics": "Node.js, Express.js, Sequelize, ORM, MySQL, BCrypt, Handlebars.js, Ionicons, Heroku"
+}
+]
